@@ -170,7 +170,7 @@ curl -I http://localhost:8080/redirect/abc123
 | Variable | Description | Default |
 |----------|-------------|---------|
 | MONGODB_URI | MongoDB connection string | mongodb://localhost:27017 |
-| DATABASE_NAME | Database name | trimr |
+| DATABASE_NAME | Database name | urls |
 | COLLECTION_NAME | Collection name | urls |
 | PORT | Server port | 8080 |
 
