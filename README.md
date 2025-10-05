@@ -174,10 +174,6 @@ curl -I http://localhost:8080/redirect/abc123
 | COLLECTION_NAME | Collection name | urls |
 | PORT | Server port | 8080 |
 
-## License
-
-MIT
-
 ## Author
 
 [timcooked](https://github.com/timcooked)
